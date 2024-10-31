@@ -42,13 +42,16 @@ Getting Started
     
 
 ### Installation
+```bash
+1.git clone https://github.com/major0001/E-commerce_Website-ALX-Project
+    
+1.  cd server
+2.  npm install
+    
+3.   cd ../client    
+4.   npm install
 
-1.  bashCopy codegit clone https://github.com/roy7077/payment-gateway.gitcd ecommerce-app
-    
-2.  bashCopy codecd servernpm install
-    
-3.  bashCopy codecd ../clientnpm install
-    
+```
 
 ### Environment Variables
 
@@ -62,10 +65,14 @@ RAZORPAY_KEY_SECRET=your_razorpay_key_secret   `
 ```
 ### Running the Application
 
-1.  bashCopy codecd server npm start
+```bash
+1. cd server 
+2. npm start
     
-2.  bashCopy codecd ../client npm start
-    
+3.  cd ../client 
+4.  npm start
+
+```
 API Endpoints
 -------------
 
